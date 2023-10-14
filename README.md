@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84%EC%9C%84%ED%95%9C-%EB%B2%A1%ED%84%B0-%EB%9D%BC%EC%9D%B8-%EC%9B%B9-%EA%B0%9C%EB%85%90%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%BD%94%EB%94%A9%EC%9D%84%EC%9C%84%ED%95%9C-%EC%84%A0%ED%98%95-%EC%9B%B9-%EB%B0%B0%EB%84%88-.jpg)](https://HimanshuThakur117.io)
 <h1 align="center">Hi 👋, I'm Himanshu Thakur</h1>
-<h3 align="center">Flutter Developer | Android & Web Developer | Programmer | Learner</h3>
+<h3 align="center">Flutter Developer | Android & Ios or web Developer | Programmer | Learner</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuthakur117&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuthakur117" /> </p>
